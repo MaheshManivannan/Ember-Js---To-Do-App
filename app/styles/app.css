@@ -1,1 +1,22 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+div{
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+input{
+    border: 3px solid brown;
+    border-radius: 6px;
+}
+button{
+    background-color: aqua;
+    color: blue;
+}
+ul{
+    list-style: none;
+}
+li{
+    color: green;
+    font-size: 20px;
+}
